@@ -164,26 +164,6 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,cdn-apple.com
 
-# microsoft
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,officeppe.net
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,msocsp.com
-DOMAIN-SUFFIX,msauthimages.net
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftonline.com
-
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mob.com

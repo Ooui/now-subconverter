@@ -356,6 +356,8 @@ DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,tumblr.com
 
 #airport
 DOMAIN,arkdy.com

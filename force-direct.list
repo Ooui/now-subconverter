@@ -1,3 +1,18 @@
+# allowed safe trackers
+DOMAIN,graph.instagram.com
+DOMAIN,www.googleadservices.com
+DOMAIN,control.kochava.com
+DOMAIN,www.google-analytics.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,nexus.officeapps.live.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,e.crashlytics.com
+DOMAIN,ib.adnxs.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN,pagead2.googlesyndication.com
 IP-CIDR,119.29.29.29/32
 IP-CIDR,114.114.114.114/32
 IP-CIDR,127.0.0.0/8
@@ -6,3 +21,4 @@ IP-CIDR,17.0.0.0/8
 IP-CIDR,100.64.0.0/10
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
+DOMAIN-SUFFIX,cn

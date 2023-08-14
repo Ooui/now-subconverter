@@ -1,11 +1,4 @@
-IP-CIDR,1.1.1.1/32
-IP-CIDR,1.0.0.1/32
-IP-CIDR,8.8.8.8/32
 DOMAIN,dns.google
-DOMAIN,ip.sb
-DOMAIN,myip.ipip.net
-DOMAIN,ifconfig.me
-DOMAIN-SUFFIX,ping.pe
 DOMAIN,services.googleapis.cn
 DOMAIN,googleapis.cn
 DOMAIN,services.googleapis.cn
@@ -13,3 +6,14 @@ DOMAIN,google.com
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN,github.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN,ip.sb
+DOMAIN,myip.ipip.net
+DOMAIN,ifconfig.me
+DOMAIN-SUFFIX,ping.pe
+IP-CIDR,1.1.1.1/32
+IP-CIDR,1.0.0.1/32
+IP-CIDR,8.8.8.8/32

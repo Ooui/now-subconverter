@@ -31,8 +31,10 @@ DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,proton.me

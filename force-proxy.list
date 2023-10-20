@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,proton.me
+DOMAIN-KEYWORD,wikipedia
 DOMAIN,ip.sb
 DOMAIN,myip.ipip.net
 DOMAIN,ifconfig.me

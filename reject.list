@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,ad.com
 DOMAIN-SUFFIX,ads.com
 # EmEditor
 DOMAIN,support.emeditor.com
+# Adobe
+DOMAIN-KEYWORD,adobe
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
 # Blocklist 黑名单
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster

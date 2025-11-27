@@ -1,9 +1,6 @@
 # Kill AD
 DOMAIN-SUFFIX,ad.com
 DOMAIN-SUFFIX,ads.com
-# EmEditor
-DOMAIN-KEYWORD,emeditor
-DOMAIN,support.emeditor.com
 #Autodesk
 DOMAIN-KEYWORD,genuine
 # Adobe
